@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qingyunticloud.cfd/sitemap.xml
